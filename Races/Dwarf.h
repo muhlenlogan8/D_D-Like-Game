@@ -1,5 +1,5 @@
 #pragma once
-#include "IRace.h"
+#include "../IRace.h"
 
 // Dwarf is a concrete class that inherits from IRace
 class Dwarf : public IRace

@@ -1,5 +1,5 @@
 #pragma once
-#include "IRace.h"
+#include "../IRace.h"
 
 // Aesir is a concrete class that inherits from IRace
 class Aesir : public IRace

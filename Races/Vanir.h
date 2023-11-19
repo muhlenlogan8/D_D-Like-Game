@@ -1,5 +1,5 @@
 #pragma once
-#include "IRace.h"
+#include "../IRace.h"
 
 // Vanir class inheriting from IRace class
 class Vanir : public IRace

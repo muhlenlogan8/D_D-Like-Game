@@ -118,13 +118,13 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Aesir.cpp",
+			"path" : "Races/Aesir.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Air.cpp",
+			"path" : "Elements/Air.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -136,13 +136,13 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Dwarf.cpp",
+			"path" : "Races/Dwarf.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Earth.cpp",
+			"path" : "Elements/Earth.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -154,7 +154,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Fire.cpp",
+			"path" : "Elements/Fire.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -172,19 +172,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Jotnar.cpp",
+			"path" : "Races/Jotnar.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Vanir.cpp",
+			"path" : "Races/Vanir.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Water.cpp",
+			"path" : "Elements/Water.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -7,7 +7,7 @@ find_package(Threads REQUIRED)
 include_directories(${GTEST_INCLUDE_DIRS})
 add_compile_options(-std=c++17)  
  
-add_library (applibrary SHARED Aesir.cpp Air.cpp Army.cpp Dwarf.cpp Earth.cpp Factory.cpp Fire.cpp IElement.cpp IRace.cpp Jotnar.cpp Vanir.cpp Water.cpp)
+add_library (applibrary SHARED Races/Aesir.cpp Elements/Air.cpp Army.cpp Races/Dwarf.cpp Elements/Earth.cpp Factory.cpp Elements/Fire.cpp IElement.cpp IRace.cpp Races/Jotnar.cpp Races/Vanir.cpp Elements/Water.cpp)
  
 # Link runTests with what we want to test and the GTest and pthread library
 add_executable(runTests tests.cpp)

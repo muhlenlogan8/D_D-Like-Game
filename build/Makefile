@@ -155,54 +155,6 @@ runMain/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/runMain.dir/build.make CMakeFiles/runMain.dir/build
 .PHONY : runMain/fast
 
-Aesir.o: Aesir.cpp.o
-.PHONY : Aesir.o
-
-# target to build an object file
-Aesir.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Aesir.cpp.o
-.PHONY : Aesir.cpp.o
-
-Aesir.i: Aesir.cpp.i
-.PHONY : Aesir.i
-
-# target to preprocess a source file
-Aesir.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Aesir.cpp.i
-.PHONY : Aesir.cpp.i
-
-Aesir.s: Aesir.cpp.s
-.PHONY : Aesir.s
-
-# target to generate assembly for a file
-Aesir.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Aesir.cpp.s
-.PHONY : Aesir.cpp.s
-
-Air.o: Air.cpp.o
-.PHONY : Air.o
-
-# target to build an object file
-Air.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Air.cpp.o
-.PHONY : Air.cpp.o
-
-Air.i: Air.cpp.i
-.PHONY : Air.i
-
-# target to preprocess a source file
-Air.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Air.cpp.i
-.PHONY : Air.cpp.i
-
-Air.s: Air.cpp.s
-.PHONY : Air.s
-
-# target to generate assembly for a file
-Air.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Air.cpp.s
-.PHONY : Air.cpp.s
-
 Army.o: Army.cpp.o
 .PHONY : Army.o
 
@@ -227,53 +179,101 @@ Army.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Army.cpp.s
 .PHONY : Army.cpp.s
 
-Dwarf.o: Dwarf.cpp.o
-.PHONY : Dwarf.o
+Elements/Air.o: Elements/Air.cpp.o
+.PHONY : Elements/Air.o
 
 # target to build an object file
-Dwarf.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Dwarf.cpp.o
-.PHONY : Dwarf.cpp.o
+Elements/Air.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Elements/Air.cpp.o
+.PHONY : Elements/Air.cpp.o
 
-Dwarf.i: Dwarf.cpp.i
-.PHONY : Dwarf.i
+Elements/Air.i: Elements/Air.cpp.i
+.PHONY : Elements/Air.i
 
 # target to preprocess a source file
-Dwarf.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Dwarf.cpp.i
-.PHONY : Dwarf.cpp.i
+Elements/Air.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Elements/Air.cpp.i
+.PHONY : Elements/Air.cpp.i
 
-Dwarf.s: Dwarf.cpp.s
-.PHONY : Dwarf.s
+Elements/Air.s: Elements/Air.cpp.s
+.PHONY : Elements/Air.s
 
 # target to generate assembly for a file
-Dwarf.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Dwarf.cpp.s
-.PHONY : Dwarf.cpp.s
+Elements/Air.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Elements/Air.cpp.s
+.PHONY : Elements/Air.cpp.s
 
-Earth.o: Earth.cpp.o
-.PHONY : Earth.o
+Elements/Earth.o: Elements/Earth.cpp.o
+.PHONY : Elements/Earth.o
 
 # target to build an object file
-Earth.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Earth.cpp.o
-.PHONY : Earth.cpp.o
+Elements/Earth.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Elements/Earth.cpp.o
+.PHONY : Elements/Earth.cpp.o
 
-Earth.i: Earth.cpp.i
-.PHONY : Earth.i
+Elements/Earth.i: Elements/Earth.cpp.i
+.PHONY : Elements/Earth.i
 
 # target to preprocess a source file
-Earth.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Earth.cpp.i
-.PHONY : Earth.cpp.i
+Elements/Earth.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Elements/Earth.cpp.i
+.PHONY : Elements/Earth.cpp.i
 
-Earth.s: Earth.cpp.s
-.PHONY : Earth.s
+Elements/Earth.s: Elements/Earth.cpp.s
+.PHONY : Elements/Earth.s
 
 # target to generate assembly for a file
-Earth.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Earth.cpp.s
-.PHONY : Earth.cpp.s
+Elements/Earth.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Elements/Earth.cpp.s
+.PHONY : Elements/Earth.cpp.s
+
+Elements/Fire.o: Elements/Fire.cpp.o
+.PHONY : Elements/Fire.o
+
+# target to build an object file
+Elements/Fire.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Elements/Fire.cpp.o
+.PHONY : Elements/Fire.cpp.o
+
+Elements/Fire.i: Elements/Fire.cpp.i
+.PHONY : Elements/Fire.i
+
+# target to preprocess a source file
+Elements/Fire.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Elements/Fire.cpp.i
+.PHONY : Elements/Fire.cpp.i
+
+Elements/Fire.s: Elements/Fire.cpp.s
+.PHONY : Elements/Fire.s
+
+# target to generate assembly for a file
+Elements/Fire.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Elements/Fire.cpp.s
+.PHONY : Elements/Fire.cpp.s
+
+Elements/Water.o: Elements/Water.cpp.o
+.PHONY : Elements/Water.o
+
+# target to build an object file
+Elements/Water.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Elements/Water.cpp.o
+.PHONY : Elements/Water.cpp.o
+
+Elements/Water.i: Elements/Water.cpp.i
+.PHONY : Elements/Water.i
+
+# target to preprocess a source file
+Elements/Water.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Elements/Water.cpp.i
+.PHONY : Elements/Water.cpp.i
+
+Elements/Water.s: Elements/Water.cpp.s
+.PHONY : Elements/Water.s
+
+# target to generate assembly for a file
+Elements/Water.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Elements/Water.cpp.s
+.PHONY : Elements/Water.cpp.s
 
 Factory.o: Factory.cpp.o
 .PHONY : Factory.o
@@ -298,30 +298,6 @@ Factory.s: Factory.cpp.s
 Factory.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Factory.cpp.s
 .PHONY : Factory.cpp.s
-
-Fire.o: Fire.cpp.o
-.PHONY : Fire.o
-
-# target to build an object file
-Fire.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Fire.cpp.o
-.PHONY : Fire.cpp.o
-
-Fire.i: Fire.cpp.i
-.PHONY : Fire.i
-
-# target to preprocess a source file
-Fire.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Fire.cpp.i
-.PHONY : Fire.cpp.i
-
-Fire.s: Fire.cpp.s
-.PHONY : Fire.s
-
-# target to generate assembly for a file
-Fire.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Fire.cpp.s
-.PHONY : Fire.cpp.s
 
 IElement.o: IElement.cpp.o
 .PHONY : IElement.o
@@ -371,77 +347,101 @@ IRace.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/IRace.cpp.s
 .PHONY : IRace.cpp.s
 
-Jotnar.o: Jotnar.cpp.o
-.PHONY : Jotnar.o
+Races/Aesir.o: Races/Aesir.cpp.o
+.PHONY : Races/Aesir.o
 
 # target to build an object file
-Jotnar.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Jotnar.cpp.o
-.PHONY : Jotnar.cpp.o
+Races/Aesir.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Races/Aesir.cpp.o
+.PHONY : Races/Aesir.cpp.o
 
-Jotnar.i: Jotnar.cpp.i
-.PHONY : Jotnar.i
+Races/Aesir.i: Races/Aesir.cpp.i
+.PHONY : Races/Aesir.i
 
 # target to preprocess a source file
-Jotnar.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Jotnar.cpp.i
-.PHONY : Jotnar.cpp.i
+Races/Aesir.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Races/Aesir.cpp.i
+.PHONY : Races/Aesir.cpp.i
 
-Jotnar.s: Jotnar.cpp.s
-.PHONY : Jotnar.s
+Races/Aesir.s: Races/Aesir.cpp.s
+.PHONY : Races/Aesir.s
 
 # target to generate assembly for a file
-Jotnar.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Jotnar.cpp.s
-.PHONY : Jotnar.cpp.s
+Races/Aesir.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Races/Aesir.cpp.s
+.PHONY : Races/Aesir.cpp.s
 
-Vanir.o: Vanir.cpp.o
-.PHONY : Vanir.o
+Races/Dwarf.o: Races/Dwarf.cpp.o
+.PHONY : Races/Dwarf.o
 
 # target to build an object file
-Vanir.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Vanir.cpp.o
-.PHONY : Vanir.cpp.o
+Races/Dwarf.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Races/Dwarf.cpp.o
+.PHONY : Races/Dwarf.cpp.o
 
-Vanir.i: Vanir.cpp.i
-.PHONY : Vanir.i
+Races/Dwarf.i: Races/Dwarf.cpp.i
+.PHONY : Races/Dwarf.i
 
 # target to preprocess a source file
-Vanir.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Vanir.cpp.i
-.PHONY : Vanir.cpp.i
+Races/Dwarf.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Races/Dwarf.cpp.i
+.PHONY : Races/Dwarf.cpp.i
 
-Vanir.s: Vanir.cpp.s
-.PHONY : Vanir.s
+Races/Dwarf.s: Races/Dwarf.cpp.s
+.PHONY : Races/Dwarf.s
 
 # target to generate assembly for a file
-Vanir.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Vanir.cpp.s
-.PHONY : Vanir.cpp.s
+Races/Dwarf.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Races/Dwarf.cpp.s
+.PHONY : Races/Dwarf.cpp.s
 
-Water.o: Water.cpp.o
-.PHONY : Water.o
+Races/Jotnar.o: Races/Jotnar.cpp.o
+.PHONY : Races/Jotnar.o
 
 # target to build an object file
-Water.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Water.cpp.o
-.PHONY : Water.cpp.o
+Races/Jotnar.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Races/Jotnar.cpp.o
+.PHONY : Races/Jotnar.cpp.o
 
-Water.i: Water.cpp.i
-.PHONY : Water.i
+Races/Jotnar.i: Races/Jotnar.cpp.i
+.PHONY : Races/Jotnar.i
 
 # target to preprocess a source file
-Water.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Water.cpp.i
-.PHONY : Water.cpp.i
+Races/Jotnar.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Races/Jotnar.cpp.i
+.PHONY : Races/Jotnar.cpp.i
 
-Water.s: Water.cpp.s
-.PHONY : Water.s
+Races/Jotnar.s: Races/Jotnar.cpp.s
+.PHONY : Races/Jotnar.s
 
 # target to generate assembly for a file
-Water.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Water.cpp.s
-.PHONY : Water.cpp.s
+Races/Jotnar.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Races/Jotnar.cpp.s
+.PHONY : Races/Jotnar.cpp.s
+
+Races/Vanir.o: Races/Vanir.cpp.o
+.PHONY : Races/Vanir.o
+
+# target to build an object file
+Races/Vanir.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Races/Vanir.cpp.o
+.PHONY : Races/Vanir.cpp.o
+
+Races/Vanir.i: Races/Vanir.cpp.i
+.PHONY : Races/Vanir.i
+
+# target to preprocess a source file
+Races/Vanir.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Races/Vanir.cpp.i
+.PHONY : Races/Vanir.cpp.i
+
+Races/Vanir.s: Races/Vanir.cpp.s
+.PHONY : Races/Vanir.s
+
+# target to generate assembly for a file
+Races/Vanir.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/applibrary.dir/build.make CMakeFiles/applibrary.dir/Races/Vanir.cpp.s
+.PHONY : Races/Vanir.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -502,42 +502,42 @@ help:
 	@echo "... applibrary"
 	@echo "... runMain"
 	@echo "... runTests"
-	@echo "... Aesir.o"
-	@echo "... Aesir.i"
-	@echo "... Aesir.s"
-	@echo "... Air.o"
-	@echo "... Air.i"
-	@echo "... Air.s"
 	@echo "... Army.o"
 	@echo "... Army.i"
 	@echo "... Army.s"
-	@echo "... Dwarf.o"
-	@echo "... Dwarf.i"
-	@echo "... Dwarf.s"
-	@echo "... Earth.o"
-	@echo "... Earth.i"
-	@echo "... Earth.s"
+	@echo "... Elements/Air.o"
+	@echo "... Elements/Air.i"
+	@echo "... Elements/Air.s"
+	@echo "... Elements/Earth.o"
+	@echo "... Elements/Earth.i"
+	@echo "... Elements/Earth.s"
+	@echo "... Elements/Fire.o"
+	@echo "... Elements/Fire.i"
+	@echo "... Elements/Fire.s"
+	@echo "... Elements/Water.o"
+	@echo "... Elements/Water.i"
+	@echo "... Elements/Water.s"
 	@echo "... Factory.o"
 	@echo "... Factory.i"
 	@echo "... Factory.s"
-	@echo "... Fire.o"
-	@echo "... Fire.i"
-	@echo "... Fire.s"
 	@echo "... IElement.o"
 	@echo "... IElement.i"
 	@echo "... IElement.s"
 	@echo "... IRace.o"
 	@echo "... IRace.i"
 	@echo "... IRace.s"
-	@echo "... Jotnar.o"
-	@echo "... Jotnar.i"
-	@echo "... Jotnar.s"
-	@echo "... Vanir.o"
-	@echo "... Vanir.i"
-	@echo "... Vanir.s"
-	@echo "... Water.o"
-	@echo "... Water.i"
-	@echo "... Water.s"
+	@echo "... Races/Aesir.o"
+	@echo "... Races/Aesir.i"
+	@echo "... Races/Aesir.s"
+	@echo "... Races/Dwarf.o"
+	@echo "... Races/Dwarf.i"
+	@echo "... Races/Dwarf.s"
+	@echo "... Races/Jotnar.o"
+	@echo "... Races/Jotnar.i"
+	@echo "... Races/Jotnar.s"
+	@echo "... Races/Vanir.o"
+	@echo "... Races/Vanir.i"
+	@echo "... Races/Vanir.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -261,25 +261,23 @@ CMakeFiles/runMain.dir/main.cpp.o: ../main.cpp \
   /usr/include/c++/11/numeric \
   /usr/include/c++/11/bits/stl_numeric.h \
   /usr/include/c++/11/pstl/glue_numeric_defs.h \
-  ../Aesir.h \
-  ../Dwarf.h \
-  ../Jotnar.h \
-  ../Vanir.h \
-  ../Air.h \
-  ../Earth.h \
-  ../Fire.h \
-  ../Water.h
+  ../Races/Aesir.h \
+  ../Races/Dwarf.h \
+  ../Races/Jotnar.h \
+  ../Races/Vanir.h \
+  ../Elements/Air.h \
+  ../Elements/Earth.h \
+  ../Elements/Fire.h \
+  ../Elements/Water.h
 
 
-../Fire.h:
+../Elements/Water.h:
 
-../Earth.h:
+../Elements/Earth.h:
 
-../Vanir.h:
+../Races/Vanir.h:
 
-../Jotnar.h:
-
-../Aesir.h:
+../Races/Aesir.h:
 
 /usr/include/c++/11/bits/stl_numeric.h:
 
@@ -329,6 +327,8 @@ CMakeFiles/runMain.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/gthr-default.h:
 
+../Elements/Air.h:
+
 /usr/include/c++/11/ext/concurrence.h:
 
 /usr/include/c++/11/bits/ios_base.h:
@@ -346,6 +346,8 @@ CMakeFiles/runMain.dir/main.cpp.o: ../main.cpp \
 /usr/include/locale.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:
+
+../Races/Jotnar.h:
 
 /usr/include/c++/11/bits/localefwd.h:
 
@@ -420,6 +422,8 @@ CMakeFiles/runMain.dir/main.cpp.o: ../main.cpp \
 /usr/include/c++/11/bits/move.h:
 
 /usr/include/c++/11/bits/hash_bytes.h:
+
+../Races/Dwarf.h:
 
 /usr/include/c++/11/bits/string_view.tcc:
 
@@ -511,8 +515,6 @@ CMakeFiles/runMain.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
 
-../Water.h:
-
 /usr/include/c++/11/cwchar:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
@@ -566,8 +568,6 @@ CMakeFiles/runMain.dir/main.cpp.o: ../main.cpp \
 /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
 
 /usr/include/c++/11/streambuf:
-
-../Air.h:
 
 /usr/include/c++/11/iosfwd:
 
@@ -781,11 +781,11 @@ CMakeFiles/runMain.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/opt_random.h:
 
-../Dwarf.h:
-
 /usr/include/x86_64-linux-gnu/bits/mathcalls.h:
 
 /usr/include/c++/11/bits/random.h:
+
+../Elements/Fire.h:
 
 /usr/include/c++/11/bits/postypes.h:
 

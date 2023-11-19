@@ -3,14 +3,14 @@
 #include "Army.h"
 #include "IElement.h"
 #include "IRace.h"
-#include "Aesir.h"
-#include "Dwarf.h"
-#include "Jotnar.h"
-#include "Vanir.h"
-#include "Air.h"
-#include "Earth.h"
-#include "Fire.h"
-#include "Water.h"
+#include "Races/Aesir.h"
+#include "Races/Dwarf.h"
+#include "Races/Jotnar.h"
+#include "Races/Vanir.h"
+#include "Elements/Air.h"
+#include "Elements/Earth.h"
+#include "Elements/Fire.h"
+#include "Elements/Water.h"
 
 // Test to ensure the factory can create a character
 TEST(FactoryTest, TestCharacterCreation)

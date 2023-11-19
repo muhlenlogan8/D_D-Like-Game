@@ -69,33 +69,33 @@ include CMakeFiles/applibrary.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/applibrary.dir/flags.make
 
-CMakeFiles/applibrary.dir/Aesir.cpp.o: CMakeFiles/applibrary.dir/flags.make
-CMakeFiles/applibrary.dir/Aesir.cpp.o: ../Aesir.cpp
-CMakeFiles/applibrary.dir/Aesir.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/applibrary.dir/Aesir.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Aesir.cpp.o -MF CMakeFiles/applibrary.dir/Aesir.cpp.o.d -o CMakeFiles/applibrary.dir/Aesir.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Aesir.cpp
+CMakeFiles/applibrary.dir/Races/Aesir.cpp.o: CMakeFiles/applibrary.dir/flags.make
+CMakeFiles/applibrary.dir/Races/Aesir.cpp.o: ../Races/Aesir.cpp
+CMakeFiles/applibrary.dir/Races/Aesir.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/applibrary.dir/Races/Aesir.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Races/Aesir.cpp.o -MF CMakeFiles/applibrary.dir/Races/Aesir.cpp.o.d -o CMakeFiles/applibrary.dir/Races/Aesir.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Aesir.cpp
 
-CMakeFiles/applibrary.dir/Aesir.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Aesir.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Aesir.cpp > CMakeFiles/applibrary.dir/Aesir.cpp.i
+CMakeFiles/applibrary.dir/Races/Aesir.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Races/Aesir.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Aesir.cpp > CMakeFiles/applibrary.dir/Races/Aesir.cpp.i
 
-CMakeFiles/applibrary.dir/Aesir.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Aesir.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Aesir.cpp -o CMakeFiles/applibrary.dir/Aesir.cpp.s
+CMakeFiles/applibrary.dir/Races/Aesir.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Races/Aesir.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Aesir.cpp -o CMakeFiles/applibrary.dir/Races/Aesir.cpp.s
 
-CMakeFiles/applibrary.dir/Air.cpp.o: CMakeFiles/applibrary.dir/flags.make
-CMakeFiles/applibrary.dir/Air.cpp.o: ../Air.cpp
-CMakeFiles/applibrary.dir/Air.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/applibrary.dir/Air.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Air.cpp.o -MF CMakeFiles/applibrary.dir/Air.cpp.o.d -o CMakeFiles/applibrary.dir/Air.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Air.cpp
+CMakeFiles/applibrary.dir/Elements/Air.cpp.o: CMakeFiles/applibrary.dir/flags.make
+CMakeFiles/applibrary.dir/Elements/Air.cpp.o: ../Elements/Air.cpp
+CMakeFiles/applibrary.dir/Elements/Air.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/applibrary.dir/Elements/Air.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Elements/Air.cpp.o -MF CMakeFiles/applibrary.dir/Elements/Air.cpp.o.d -o CMakeFiles/applibrary.dir/Elements/Air.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Air.cpp
 
-CMakeFiles/applibrary.dir/Air.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Air.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Air.cpp > CMakeFiles/applibrary.dir/Air.cpp.i
+CMakeFiles/applibrary.dir/Elements/Air.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Elements/Air.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Air.cpp > CMakeFiles/applibrary.dir/Elements/Air.cpp.i
 
-CMakeFiles/applibrary.dir/Air.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Air.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Air.cpp -o CMakeFiles/applibrary.dir/Air.cpp.s
+CMakeFiles/applibrary.dir/Elements/Air.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Elements/Air.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Air.cpp -o CMakeFiles/applibrary.dir/Elements/Air.cpp.s
 
 CMakeFiles/applibrary.dir/Army.cpp.o: CMakeFiles/applibrary.dir/flags.make
 CMakeFiles/applibrary.dir/Army.cpp.o: ../Army.cpp
@@ -111,33 +111,33 @@ CMakeFiles/applibrary.dir/Army.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Army.cpp.s"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Army.cpp -o CMakeFiles/applibrary.dir/Army.cpp.s
 
-CMakeFiles/applibrary.dir/Dwarf.cpp.o: CMakeFiles/applibrary.dir/flags.make
-CMakeFiles/applibrary.dir/Dwarf.cpp.o: ../Dwarf.cpp
-CMakeFiles/applibrary.dir/Dwarf.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/applibrary.dir/Dwarf.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Dwarf.cpp.o -MF CMakeFiles/applibrary.dir/Dwarf.cpp.o.d -o CMakeFiles/applibrary.dir/Dwarf.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Dwarf.cpp
+CMakeFiles/applibrary.dir/Races/Dwarf.cpp.o: CMakeFiles/applibrary.dir/flags.make
+CMakeFiles/applibrary.dir/Races/Dwarf.cpp.o: ../Races/Dwarf.cpp
+CMakeFiles/applibrary.dir/Races/Dwarf.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/applibrary.dir/Races/Dwarf.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Races/Dwarf.cpp.o -MF CMakeFiles/applibrary.dir/Races/Dwarf.cpp.o.d -o CMakeFiles/applibrary.dir/Races/Dwarf.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Dwarf.cpp
 
-CMakeFiles/applibrary.dir/Dwarf.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Dwarf.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Dwarf.cpp > CMakeFiles/applibrary.dir/Dwarf.cpp.i
+CMakeFiles/applibrary.dir/Races/Dwarf.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Races/Dwarf.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Dwarf.cpp > CMakeFiles/applibrary.dir/Races/Dwarf.cpp.i
 
-CMakeFiles/applibrary.dir/Dwarf.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Dwarf.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Dwarf.cpp -o CMakeFiles/applibrary.dir/Dwarf.cpp.s
+CMakeFiles/applibrary.dir/Races/Dwarf.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Races/Dwarf.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Dwarf.cpp -o CMakeFiles/applibrary.dir/Races/Dwarf.cpp.s
 
-CMakeFiles/applibrary.dir/Earth.cpp.o: CMakeFiles/applibrary.dir/flags.make
-CMakeFiles/applibrary.dir/Earth.cpp.o: ../Earth.cpp
-CMakeFiles/applibrary.dir/Earth.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/applibrary.dir/Earth.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Earth.cpp.o -MF CMakeFiles/applibrary.dir/Earth.cpp.o.d -o CMakeFiles/applibrary.dir/Earth.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Earth.cpp
+CMakeFiles/applibrary.dir/Elements/Earth.cpp.o: CMakeFiles/applibrary.dir/flags.make
+CMakeFiles/applibrary.dir/Elements/Earth.cpp.o: ../Elements/Earth.cpp
+CMakeFiles/applibrary.dir/Elements/Earth.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/applibrary.dir/Elements/Earth.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Elements/Earth.cpp.o -MF CMakeFiles/applibrary.dir/Elements/Earth.cpp.o.d -o CMakeFiles/applibrary.dir/Elements/Earth.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Earth.cpp
 
-CMakeFiles/applibrary.dir/Earth.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Earth.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Earth.cpp > CMakeFiles/applibrary.dir/Earth.cpp.i
+CMakeFiles/applibrary.dir/Elements/Earth.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Elements/Earth.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Earth.cpp > CMakeFiles/applibrary.dir/Elements/Earth.cpp.i
 
-CMakeFiles/applibrary.dir/Earth.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Earth.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Earth.cpp -o CMakeFiles/applibrary.dir/Earth.cpp.s
+CMakeFiles/applibrary.dir/Elements/Earth.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Elements/Earth.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Earth.cpp -o CMakeFiles/applibrary.dir/Elements/Earth.cpp.s
 
 CMakeFiles/applibrary.dir/Factory.cpp.o: CMakeFiles/applibrary.dir/flags.make
 CMakeFiles/applibrary.dir/Factory.cpp.o: ../Factory.cpp
@@ -153,19 +153,19 @@ CMakeFiles/applibrary.dir/Factory.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Factory.cpp.s"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Factory.cpp -o CMakeFiles/applibrary.dir/Factory.cpp.s
 
-CMakeFiles/applibrary.dir/Fire.cpp.o: CMakeFiles/applibrary.dir/flags.make
-CMakeFiles/applibrary.dir/Fire.cpp.o: ../Fire.cpp
-CMakeFiles/applibrary.dir/Fire.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/applibrary.dir/Fire.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Fire.cpp.o -MF CMakeFiles/applibrary.dir/Fire.cpp.o.d -o CMakeFiles/applibrary.dir/Fire.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Fire.cpp
+CMakeFiles/applibrary.dir/Elements/Fire.cpp.o: CMakeFiles/applibrary.dir/flags.make
+CMakeFiles/applibrary.dir/Elements/Fire.cpp.o: ../Elements/Fire.cpp
+CMakeFiles/applibrary.dir/Elements/Fire.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/applibrary.dir/Elements/Fire.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Elements/Fire.cpp.o -MF CMakeFiles/applibrary.dir/Elements/Fire.cpp.o.d -o CMakeFiles/applibrary.dir/Elements/Fire.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Fire.cpp
 
-CMakeFiles/applibrary.dir/Fire.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Fire.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Fire.cpp > CMakeFiles/applibrary.dir/Fire.cpp.i
+CMakeFiles/applibrary.dir/Elements/Fire.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Elements/Fire.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Fire.cpp > CMakeFiles/applibrary.dir/Elements/Fire.cpp.i
 
-CMakeFiles/applibrary.dir/Fire.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Fire.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Fire.cpp -o CMakeFiles/applibrary.dir/Fire.cpp.s
+CMakeFiles/applibrary.dir/Elements/Fire.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Elements/Fire.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Fire.cpp -o CMakeFiles/applibrary.dir/Elements/Fire.cpp.s
 
 CMakeFiles/applibrary.dir/IElement.cpp.o: CMakeFiles/applibrary.dir/flags.make
 CMakeFiles/applibrary.dir/IElement.cpp.o: ../IElement.cpp
@@ -195,78 +195,78 @@ CMakeFiles/applibrary.dir/IRace.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/IRace.cpp.s"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/IRace.cpp -o CMakeFiles/applibrary.dir/IRace.cpp.s
 
-CMakeFiles/applibrary.dir/Jotnar.cpp.o: CMakeFiles/applibrary.dir/flags.make
-CMakeFiles/applibrary.dir/Jotnar.cpp.o: ../Jotnar.cpp
-CMakeFiles/applibrary.dir/Jotnar.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/applibrary.dir/Jotnar.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Jotnar.cpp.o -MF CMakeFiles/applibrary.dir/Jotnar.cpp.o.d -o CMakeFiles/applibrary.dir/Jotnar.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Jotnar.cpp
+CMakeFiles/applibrary.dir/Races/Jotnar.cpp.o: CMakeFiles/applibrary.dir/flags.make
+CMakeFiles/applibrary.dir/Races/Jotnar.cpp.o: ../Races/Jotnar.cpp
+CMakeFiles/applibrary.dir/Races/Jotnar.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/applibrary.dir/Races/Jotnar.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Races/Jotnar.cpp.o -MF CMakeFiles/applibrary.dir/Races/Jotnar.cpp.o.d -o CMakeFiles/applibrary.dir/Races/Jotnar.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Jotnar.cpp
 
-CMakeFiles/applibrary.dir/Jotnar.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Jotnar.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Jotnar.cpp > CMakeFiles/applibrary.dir/Jotnar.cpp.i
+CMakeFiles/applibrary.dir/Races/Jotnar.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Races/Jotnar.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Jotnar.cpp > CMakeFiles/applibrary.dir/Races/Jotnar.cpp.i
 
-CMakeFiles/applibrary.dir/Jotnar.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Jotnar.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Jotnar.cpp -o CMakeFiles/applibrary.dir/Jotnar.cpp.s
+CMakeFiles/applibrary.dir/Races/Jotnar.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Races/Jotnar.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Jotnar.cpp -o CMakeFiles/applibrary.dir/Races/Jotnar.cpp.s
 
-CMakeFiles/applibrary.dir/Vanir.cpp.o: CMakeFiles/applibrary.dir/flags.make
-CMakeFiles/applibrary.dir/Vanir.cpp.o: ../Vanir.cpp
-CMakeFiles/applibrary.dir/Vanir.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/applibrary.dir/Vanir.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Vanir.cpp.o -MF CMakeFiles/applibrary.dir/Vanir.cpp.o.d -o CMakeFiles/applibrary.dir/Vanir.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Vanir.cpp
+CMakeFiles/applibrary.dir/Races/Vanir.cpp.o: CMakeFiles/applibrary.dir/flags.make
+CMakeFiles/applibrary.dir/Races/Vanir.cpp.o: ../Races/Vanir.cpp
+CMakeFiles/applibrary.dir/Races/Vanir.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/applibrary.dir/Races/Vanir.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Races/Vanir.cpp.o -MF CMakeFiles/applibrary.dir/Races/Vanir.cpp.o.d -o CMakeFiles/applibrary.dir/Races/Vanir.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Vanir.cpp
 
-CMakeFiles/applibrary.dir/Vanir.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Vanir.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Vanir.cpp > CMakeFiles/applibrary.dir/Vanir.cpp.i
+CMakeFiles/applibrary.dir/Races/Vanir.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Races/Vanir.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Vanir.cpp > CMakeFiles/applibrary.dir/Races/Vanir.cpp.i
 
-CMakeFiles/applibrary.dir/Vanir.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Vanir.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Vanir.cpp -o CMakeFiles/applibrary.dir/Vanir.cpp.s
+CMakeFiles/applibrary.dir/Races/Vanir.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Races/Vanir.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Vanir.cpp -o CMakeFiles/applibrary.dir/Races/Vanir.cpp.s
 
-CMakeFiles/applibrary.dir/Water.cpp.o: CMakeFiles/applibrary.dir/flags.make
-CMakeFiles/applibrary.dir/Water.cpp.o: ../Water.cpp
-CMakeFiles/applibrary.dir/Water.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/applibrary.dir/Water.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Water.cpp.o -MF CMakeFiles/applibrary.dir/Water.cpp.o.d -o CMakeFiles/applibrary.dir/Water.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Water.cpp
+CMakeFiles/applibrary.dir/Elements/Water.cpp.o: CMakeFiles/applibrary.dir/flags.make
+CMakeFiles/applibrary.dir/Elements/Water.cpp.o: ../Elements/Water.cpp
+CMakeFiles/applibrary.dir/Elements/Water.cpp.o: CMakeFiles/applibrary.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/applibrary.dir/Elements/Water.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/applibrary.dir/Elements/Water.cpp.o -MF CMakeFiles/applibrary.dir/Elements/Water.cpp.o.d -o CMakeFiles/applibrary.dir/Elements/Water.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Water.cpp
 
-CMakeFiles/applibrary.dir/Water.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Water.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Water.cpp > CMakeFiles/applibrary.dir/Water.cpp.i
+CMakeFiles/applibrary.dir/Elements/Water.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/applibrary.dir/Elements/Water.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Water.cpp > CMakeFiles/applibrary.dir/Elements/Water.cpp.i
 
-CMakeFiles/applibrary.dir/Water.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Water.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Water.cpp -o CMakeFiles/applibrary.dir/Water.cpp.s
+CMakeFiles/applibrary.dir/Elements/Water.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/applibrary.dir/Elements/Water.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Water.cpp -o CMakeFiles/applibrary.dir/Elements/Water.cpp.s
 
 # Object files for target applibrary
 applibrary_OBJECTS = \
-"CMakeFiles/applibrary.dir/Aesir.cpp.o" \
-"CMakeFiles/applibrary.dir/Air.cpp.o" \
+"CMakeFiles/applibrary.dir/Races/Aesir.cpp.o" \
+"CMakeFiles/applibrary.dir/Elements/Air.cpp.o" \
 "CMakeFiles/applibrary.dir/Army.cpp.o" \
-"CMakeFiles/applibrary.dir/Dwarf.cpp.o" \
-"CMakeFiles/applibrary.dir/Earth.cpp.o" \
+"CMakeFiles/applibrary.dir/Races/Dwarf.cpp.o" \
+"CMakeFiles/applibrary.dir/Elements/Earth.cpp.o" \
 "CMakeFiles/applibrary.dir/Factory.cpp.o" \
-"CMakeFiles/applibrary.dir/Fire.cpp.o" \
+"CMakeFiles/applibrary.dir/Elements/Fire.cpp.o" \
 "CMakeFiles/applibrary.dir/IElement.cpp.o" \
 "CMakeFiles/applibrary.dir/IRace.cpp.o" \
-"CMakeFiles/applibrary.dir/Jotnar.cpp.o" \
-"CMakeFiles/applibrary.dir/Vanir.cpp.o" \
-"CMakeFiles/applibrary.dir/Water.cpp.o"
+"CMakeFiles/applibrary.dir/Races/Jotnar.cpp.o" \
+"CMakeFiles/applibrary.dir/Races/Vanir.cpp.o" \
+"CMakeFiles/applibrary.dir/Elements/Water.cpp.o"
 
 # External object files for target applibrary
 applibrary_EXTERNAL_OBJECTS =
 
-libapplibrary.so: CMakeFiles/applibrary.dir/Aesir.cpp.o
-libapplibrary.so: CMakeFiles/applibrary.dir/Air.cpp.o
+libapplibrary.so: CMakeFiles/applibrary.dir/Races/Aesir.cpp.o
+libapplibrary.so: CMakeFiles/applibrary.dir/Elements/Air.cpp.o
 libapplibrary.so: CMakeFiles/applibrary.dir/Army.cpp.o
-libapplibrary.so: CMakeFiles/applibrary.dir/Dwarf.cpp.o
-libapplibrary.so: CMakeFiles/applibrary.dir/Earth.cpp.o
+libapplibrary.so: CMakeFiles/applibrary.dir/Races/Dwarf.cpp.o
+libapplibrary.so: CMakeFiles/applibrary.dir/Elements/Earth.cpp.o
 libapplibrary.so: CMakeFiles/applibrary.dir/Factory.cpp.o
-libapplibrary.so: CMakeFiles/applibrary.dir/Fire.cpp.o
+libapplibrary.so: CMakeFiles/applibrary.dir/Elements/Fire.cpp.o
 libapplibrary.so: CMakeFiles/applibrary.dir/IElement.cpp.o
 libapplibrary.so: CMakeFiles/applibrary.dir/IRace.cpp.o
-libapplibrary.so: CMakeFiles/applibrary.dir/Jotnar.cpp.o
-libapplibrary.so: CMakeFiles/applibrary.dir/Vanir.cpp.o
-libapplibrary.so: CMakeFiles/applibrary.dir/Water.cpp.o
+libapplibrary.so: CMakeFiles/applibrary.dir/Races/Jotnar.cpp.o
+libapplibrary.so: CMakeFiles/applibrary.dir/Races/Vanir.cpp.o
+libapplibrary.so: CMakeFiles/applibrary.dir/Elements/Water.cpp.o
 libapplibrary.so: CMakeFiles/applibrary.dir/build.make
 libapplibrary.so: CMakeFiles/applibrary.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX shared library libapplibrary.so"

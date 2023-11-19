@@ -1,7 +1,7 @@
 #pragma once
 
-#include "IElement.h"
-#include "IRace.h"
+#include "../IElement.h"
+#include "../IRace.h"
 #include <memory>
 
 // Water is a concrete class that inherits from IElement

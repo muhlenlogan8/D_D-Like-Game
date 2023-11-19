@@ -1,13 +1,13 @@
 [
 {
   "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
-  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Aesir.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Aesir.cpp",
-  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Aesir.cpp"
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Races/Aesir.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Aesir.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Aesir.cpp"
 },
 {
   "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
-  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Air.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Air.cpp",
-  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Air.cpp"
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Elements/Air.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Air.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Air.cpp"
 },
 {
   "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
@@ -16,13 +16,13 @@
 },
 {
   "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
-  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Dwarf.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Dwarf.cpp",
-  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Dwarf.cpp"
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Races/Dwarf.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Dwarf.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Dwarf.cpp"
 },
 {
   "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
-  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Earth.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Earth.cpp",
-  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Earth.cpp"
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Elements/Earth.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Earth.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Earth.cpp"
 },
 {
   "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
@@ -31,8 +31,8 @@
 },
 {
   "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
-  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Fire.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Fire.cpp",
-  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Fire.cpp"
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Elements/Fire.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Fire.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Fire.cpp"
 },
 {
   "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
@@ -46,18 +46,18 @@
 },
 {
   "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
-  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Jotnar.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Jotnar.cpp",
-  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Jotnar.cpp"
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Races/Jotnar.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Jotnar.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Jotnar.cpp"
 },
 {
   "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
-  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Vanir.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Vanir.cpp",
-  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Vanir.cpp"
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Races/Vanir.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Vanir.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Races/Vanir.cpp"
 },
 {
   "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
-  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Water.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Water.cpp",
-  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Water.cpp"
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Elements/Water.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Water.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Elements/Water.cpp"
 },
 {
   "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",

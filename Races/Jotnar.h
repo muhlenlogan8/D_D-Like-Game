@@ -1,5 +1,5 @@
 #pragma once
-#include "IRace.h"
+#include "../IRace.h"
 
 // Jotnar is a concrete class that inherits from IRace
 class Jotnar : public IRace
