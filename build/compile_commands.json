@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Aesir.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Aesir.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Aesir.cpp"
+},
+{
+  "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Air.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Air.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Air.cpp"
+},
+{
+  "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Army.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Army.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Army.cpp"
+},
+{
+  "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Dwarf.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Dwarf.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Dwarf.cpp"
+},
+{
+  "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Earth.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Earth.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Earth.cpp"
+},
+{
+  "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Factory.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Factory.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Factory.cpp"
+},
+{
+  "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Fire.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Fire.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Fire.cpp"
+},
+{
+  "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/IElement.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/IElement.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/IElement.cpp"
+},
+{
+  "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/IRace.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/IRace.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/IRace.cpp"
+},
+{
+  "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Jotnar.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Jotnar.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Jotnar.cpp"
+},
+{
+  "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Vanir.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Vanir.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Vanir.cpp"
+},
+{
+  "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/Water.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Water.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/Water.cpp"
+},
+{
+  "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/tests.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/tests.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/tests.cpp"
+},
+{
+  "directory": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -o CMakeFiles/runMain.dir/main.cpp.o -c /mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/main.cpp",
+  "file": "/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/main.cpp"
+}
+]

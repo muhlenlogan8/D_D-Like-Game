@@ -1,0 +1,5 @@
+/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles/applibrary.dir
+/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles/runTests.dir
+/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles/runMain.dir
+/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build/CMakeFiles/rebuild_cache.dir

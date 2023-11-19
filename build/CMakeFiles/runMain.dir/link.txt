@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/runMain.dir/main.cpp.o -o runMain  -Wl,-rpath,/mnt/c/users/muhle/CodeProjects_git/D_D-Like-Game/build libapplibrary.so 
